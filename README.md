@@ -1,6 +1,6 @@
 # CSCI 2021 Project - Thermometer
 
-This program could find itself onboard a digital thermometer. The thermo_update file contains functions that read values from ports (physical sensors) and then display a temperature in F or C on a physical screen.
+This program could find itself onboard a digital thermometer. The thermo_update file contains functions that read values from ports (physical sensors) and then display a temperature in F or C on a physical screen. The thermo_update_asm file does the same thing as thermo_update, but is written entirely in assembly.
 
 #### What is in this directory?
 <ul>
